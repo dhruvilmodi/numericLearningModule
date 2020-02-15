@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Titan One', cursive;
+    background-image: url(../images/background.svg);
+}
+
+.cell{
+    min-width: 200px;
+    min-height: 250px;
+}
+
+#upperContainer{
+    margin-top: 12%;
+}
+
+#lowerContainer{
+    margin-top: 4%;
+}
+
+object{
+    width: 180px;
+    height: 180px;
+}
