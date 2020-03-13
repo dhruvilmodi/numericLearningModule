@@ -3,6 +3,6 @@ Standalone SVG animation using GSAP library
 
 # Technologies
 - HTML & CSS
-- JavaScript
+- ECMAScript 5
 - GSAP
 - Adobe Illustrator
